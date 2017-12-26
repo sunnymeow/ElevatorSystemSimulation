@@ -19,8 +19,8 @@ The system design follows this UML diagram:
 
 # Simulation run
 
-![FSM](https://github.com/sunnymeow/ElevatorSystemSimulation/blob/master/.res/run1.png)
+![FSM](https://github.com/sunnymeow/ElevatorSystemSimulation/blob/master/res/run1.png)
 
-![FSM](https://github.com/sunnymeow/ElevatorSystemSimulation/blob/master/.res/run2.png)
+![FSM](https://github.com/sunnymeow/ElevatorSystemSimulation/blob/master/res/run2.png)
 
-![FSM](https://github.com/sunnymeow/ElevatorSystemSimulation/blob/master/.res/run3.png)
+![FSM](https://github.com/sunnymeow/ElevatorSystemSimulation/blob/master/res/run3.png)
