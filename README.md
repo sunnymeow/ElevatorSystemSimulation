@@ -6,6 +6,9 @@ Simulated a elevator with capacity of 10 passengers to take passengers up and do
 *	Floor: Passengers spend some time on a Floor, and then use the Elevator to go to another Floor.
 *	Passenger: A person who enters and leaves the Building. While inside the Building, a Passenger is either on a Floor, or in the Elevator, moving between Floors.
 
+The structure follows this UML diagram:
+https://github.com/sunnymeow/ElevatorSystemSimulation/blob/master/.res/UML%20diagram.png
+
 # mechanics
 * The elevator can be stopped, stopping, moving up, or moving down.
 * The elevator will limit the number of passengers it can carry, throwing an ElevatorFullException if an attempt is made to board passengers past this limit.
