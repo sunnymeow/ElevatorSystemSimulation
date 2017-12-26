@@ -8,7 +8,7 @@ Simulated a elevator with capacity of 10 passengers to take passengers up and do
 
 The system design follows this UML diagram:
 
-![FSM](https://github.com/sunnymeow/ElevatorSystemSimulation/blob/master/.res/UML%20diagram.png)
+![FSM](https://github.com/sunnymeow/ElevatorSystemSimulation/blob/master/res/UML%20diagram.png)
 
 # Mechanics
 * The elevator can be moving up or moving down. Once the elevator is moving up, it won't move down until it reaches the top floor, and vice versa. 
